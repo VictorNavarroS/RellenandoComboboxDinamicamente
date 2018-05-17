@@ -1,0 +1,10 @@
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\bin\Debug\capaNegocio.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\bin\Debug\capaNegocio.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\obj\Debug\capaNegocio.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\obj\Debug\capaNegocio.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\bin\Debug\BDEquipoFutbol.sdf
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\bin\Debug\CapaPersistencia.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\bin\Debug\Entidades.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\bin\Debug\CapaPersistencia.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\bin\Debug\Entidades.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\capaNegocio\obj\Debug\3cpNegocio.csprojResolveAssemblyReference.cache

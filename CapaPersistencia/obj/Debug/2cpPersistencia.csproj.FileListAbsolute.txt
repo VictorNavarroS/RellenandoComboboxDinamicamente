@@ -1,0 +1,8 @@
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\CapaPersistencia\obj\Debug\2cpPersistencia.csprojResolveAssemblyReference.cache
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\CapaPersistencia\bin\Debug\BDEquipoFutbol.sdf
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\CapaPersistencia\bin\Debug\Entidades.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\CapaPersistencia\bin\Debug\Entidades.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\CapaPersistencia\obj\Debug\CapaPersistencia.pdb

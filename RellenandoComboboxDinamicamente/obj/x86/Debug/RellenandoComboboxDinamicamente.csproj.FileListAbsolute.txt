@@ -1,0 +1,15 @@
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\bin\Debug\RellenandoComboboxDinamicamente.exe
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\bin\Debug\RellenandoComboboxDinamicamente.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\obj\x86\Debug\RellenandoComboboxDinamicamente.Properties.Resources.resources
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\obj\x86\Debug\RellenandoComboboxDinamicamente.csproj.GenerateResource.Cache
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\obj\x86\Debug\RellenandoComboboxDinamicamente.exe
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\obj\x86\Debug\RellenandoComboboxDinamicamente.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\obj\x86\Debug\RellenandoComboboxDinamicamente.VentanaComobobox.resources
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\bin\Debug\RellenandoComboboxDinamicamente.exe.config
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\bin\Debug\capaNegocio.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\bin\Debug\Entidades.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\bin\Debug\capaNegocio.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\bin\Debug\Entidades.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\obj\x86\Debug\RellenandoComboboxDinamicamente.csprojResolveAssemblyReference.cache
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\bin\Debug\CapaPersistencia.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\RellenandoComboboxDinamicamente\RellenandoComboboxDinamicamente\bin\Debug\CapaPersistencia.pdb
